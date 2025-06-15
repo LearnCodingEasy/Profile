@@ -160,7 +160,7 @@
                     target="_blank"
                     class="w-12 h-12 bg-white dark:bg-gray-700 rounded-full flex items-center justify-center hover:bg-blue-600 hover:text-white transform hover:scale-110 transition-all duration-300 shadow-lg"
                   >
-                    <component :is="getSocialIcon(social.name)" class="w-6 h-6" />
+                    <div v-html="getSocialIcon(social.name)" class="w-6 h-6"></div>
                   </a>
                 </div>
               </div>
@@ -416,7 +416,7 @@ const profile = ref({
       description:
         'An educational platform with course creation, student progress tracking, and interactive learning modules.',
       // image: 'https://placehold.co/200x300?text=Placeholder',
-        image: new URL('./assets/Learning_Management_System.jpg', import.meta.url).href,
+      image: new URL('./assets/Learning_Management_System.jpg', import.meta.url).href,
       technologies: ['Vue.js', 'Laravel', 'MySQL', 'WebRTC'],
       liveUrl: 'https://demo.example.com',
       githubUrl: 'https://github.com/example/lms',
