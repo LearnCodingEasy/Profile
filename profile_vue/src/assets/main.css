@@ -71,3 +71,8 @@ html {
 .group:hover .group-hover\:opacity-100 {
   opacity: 1;
 }
+
+.icons:hover div svg{
+  color:white;
+  fill:white;
+}
