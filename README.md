@@ -46,11 +46,3 @@ npm install
 # Preview
 
 ![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/Profile/refs/heads/main/profile_vue/src/assets/profile.png)
-
-```
-cd profile_vuepress
-```
-
-```
-npm run docs:dev
-```
