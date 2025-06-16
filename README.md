@@ -45,7 +45,7 @@ npm install
 
 # Preview
 
-![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/Navbar-1/main/profile_vue/src/assets/profile.png)
+![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/Profile/refs/heads/main/profile_vue/src/assets/profile.png)
 
 ```
 cd profile_vuepress
