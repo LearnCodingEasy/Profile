@@ -41,11 +41,11 @@ npm install
 
 # View
 
-[View](https://learncodingeasy.github.io/Profile/dist/)
+[View](https://profile-8yk.pages.dev/)
 
 # Preview
 
-![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/Navbar-1/main/dist/images/Navbar-1920.jpg)
+![This is an image](https://raw.githubusercontent.com/LearnCodingEasy/Navbar-1/main/profile_vue/src/assets/profile.png)
 
 ```
 cd profile_vuepress
